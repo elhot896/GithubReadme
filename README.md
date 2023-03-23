@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything
 - 🔥 Always looking to be a better verion of myself
-- 🥅 2022 Goals: Learn Web3 Development
+- 🥅 Goals: Learn Machine Learning and Data Science
 - ⚡ Fun fact: I love basketball
 
 ### Languages and Tools:
