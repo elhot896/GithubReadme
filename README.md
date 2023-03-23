@@ -1,6 +1,6 @@
 # Hi there, I'm Carlos!! - aka ElHot896 👋
 
-## I'm a Student, Developer, and a Intern!!
+## I'm a Student, Developer
 
 - 🌱 I’m currently learning everything
 - 🔥 Always looking to be a better verion of myself
